@@ -1,0 +1,35 @@
+2018-07-05 11:07:52,983 [main] INFO com.webtestclasses.TCWalletHubLogin - Test Insurance Company Reviews: 1,148 User Ratings
+2018-07-05 11:07:59,551 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on Login Link
+2018-07-05 11:07:59,706 [main] INFO com.webtestclasses.TCWalletHubLogin - Filled Email Address Field : nagasivasankar@aol.in
+2018-07-05 11:07:59,805 [main] INFO com.webtestclasses.TCWalletHubLogin - Filled Password Field : ******
+2018-07-05 11:07:59,910 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on Login Button
+2018-07-05 11:08:02,714 [main] INFO com.webtestclasses.TCWalletHubLogin - Successfully Logged in
+2018-07-05 11:08:03,421 [main] INFO com.webtestclasses.TCWalletHubLogin - Moved mouse to Rating bar
+2018-07-05 11:08:08,253 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on Rating Star icon
+2018-07-05 11:08:08,359 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on Policy drop down
+2018-07-05 11:08:08,506 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on Drop down value
+2018-07-05 11:08:09,641 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on review star rating
+2018-07-05 11:08:12,421 [main] INFO com.webtestclasses.TCWalletHubLogin - Filled Review text field
+2018-07-05 11:08:15,263 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on Submit button
+2018-07-05 11:08:15,341 [main] INFO com.webtestclasses.TCWalletHubLogin - Verified Text is : Awesome!
+Your Test Insurance Company review has been posted.
+2018-07-05 11:08:15,794 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on User link
+2018-07-05 11:08:19,847 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on Profile link
+2018-07-05 11:08:19,995 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on Reviews link
+2018-07-05 11:08:20,060 [main] INFO com.webtestclasses.TCWalletHubLogin - Verified Reviewed Text : Test Insurance Company Comments about Test Insurance Company Comments aboutTest Insurance Company Comments about Test Insurance Company Comments about Insurance Company Comments about Test Insurance Company Comments about
+2018-07-05 11:08:21,445 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on User link
+2018-07-05 11:08:23,253 [main] INFO com.webtestclasses.TCWalletHubLogin - Clicked on Logout link
+2018-07-05 11:08:24,438 [main] INFO com.webtestclasses.TCWalletHubLogin - Browser is closed
+2018-10-04 15:34:56,951 [main] INFO com.webtestclasses.TCFacebookPost - Facebook – log in or sign up
+2018-10-04 15:34:57,214 [main] INFO com.webtestclasses.TCFacebookPost - Filled Email Address Field : ramrakypsr@gmail.com
+2018-10-04 15:34:57,351 [main] INFO com.webtestclasses.TCFacebookPost - Filled Email Password Field : ******
+2018-10-04 15:35:03,289 [main] INFO com.webtestclasses.TCFacebookPost - Clicked on Login Button
+2018-10-04 15:35:03,360 [main] INFO com.webtestclasses.TCFacebookPost - Succesfully Logged in
+2018-10-04 15:35:04,017 [main] INFO com.webtestclasses.TCFacebookPost - Clicked on create post link
+2018-10-04 15:35:07,126 [main] INFO com.webtestclasses.TCFacebookPost - Filled Post Field : Hello World 04-10-2018 15-34-48
+2018-10-04 15:35:07,257 [main] INFO com.webtestclasses.TCFacebookPost - Clicked on Post Button
+2018-10-04 15:35:09,330 [main] INFO com.webtestclasses.TCFacebookPost - Displayed message is : Hello World 04-10-2018 15-34-48
+2018-10-04 15:35:09,330 [main] INFO com.webtestclasses.TCFacebookPost - Succesfully posted the message
+2018-10-04 15:35:09,749 [main] INFO com.webtestclasses.TCFacebookPost - Clicked on Account Settings Button
+2018-10-04 15:35:12,300 [main] INFO com.webtestclasses.TCFacebookPost - Clicked on Logout Button
+2018-10-04 15:35:13,372 [main] INFO com.webtestclasses.TCFacebookPost - Browser is closed
